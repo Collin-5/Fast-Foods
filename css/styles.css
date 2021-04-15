@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+
+
+    background-color: pink !important;
+
+}
+.navbar{
+    background-color: purple;
+}
+.logo{
+
+    font-weight: 800;
+    color: deeppink !important;
+    font-size: 30px;
+    font-family: Lobster;
+}
+.container{
+    /*border: 1px solid gray;*/
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+
+.img-responsive{
+    border-radius: 10px;
+    box-shadow:  0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    margin: auto;
+}
+h2{
+    color: purple;
+    text-align: center;
+}
+.fas{
+    color: white;
+}
+footer{
+    padding: 15px;
+    background-color: #91739e;
+}
+h6{
+    text-align: center;
+    margin-top: 15px;
+
+}
+
